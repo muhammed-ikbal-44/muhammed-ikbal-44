@@ -4,7 +4,7 @@ I am İkbal ,I CEng student based in Türkiye ☪.
 I am into robotics and embedded systems and I love C/+/# family.
 
   
-I have som projects that you can access easily.(but some of them have poor documantation 😄)  
+I have some projects that you can access easily.(but some of them have poor documantation 😄)  
 
 And I also love solving algorithm problems.
 <!--

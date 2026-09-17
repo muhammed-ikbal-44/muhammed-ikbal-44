@@ -1,5 +1,12 @@
 ## Hi there 👋
+I am İkbal ,I CEng student based in Türkiye ☪.  
 
+I am into robotics and embedded systems and I love C/+/# family.
+
+  
+I have som projects that you can access easily.(but some of them have poor documantation 😄)  
+
+And I also love solving algorithm problems.
 <!--
 **muhammed-ikbal-44/muhammed-ikbal-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,7 @@ I am İkbal ,I CEng student based in Türkiye ☪.
 
 I am into robotics and embedded systems and I love C/+/# family.
 
-  
-I have some projects that you can access easily.(but some of them have poor documantation 😄)  
+Currently I am doing such interesting things with Hezarfen Technology Team which is a team based on my university. 
 
 And I also love solving algorithm problems.
 <!--

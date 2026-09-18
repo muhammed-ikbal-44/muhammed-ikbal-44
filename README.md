@@ -13,7 +13,9 @@ We have been participating Teknofest Competition on Air Defence Category since 2
   <img src="https://raw.githubusercontent.com/muhammed-ikbal-44/muhammed-ikbal-44/main/resim2.jpeg" width="24%" alt="The System" title="The System"/>
 </p>
 
-And I also love solving algorithm problems.
+---
+
+And I also love solving algorithm problems. You can acces some problem solutions on [here](https://github.com/muhammed-ikbal-44/algorithms-solutions)
 <!--
 **muhammed-ikbal-44/muhammed-ikbal-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

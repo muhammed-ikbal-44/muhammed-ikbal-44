@@ -6,7 +6,7 @@ I am into robotics and embedded systems and I love C/+/# family.
 Currently I am doing such interesting things with Hezarfen Technology Team which is a team based on my university. We have been joining Teknofest Competition on Air Defence Category since 2024, and this is our final product. 
 
 
-<img src="https://github.com/muhammed-ikbal-44/muhammed-ikbal-44/blob/main/resim1.jpeg" width="100" alt="The System" title="The System" />
+<img src="https://github.com/muhammed-ikbal-44/muhammed-ikbal-44/blob/main/resim1.jpeg" width="50%" alt="The System" title="The System" />
 
 And I also love solving algorithm problems.
 <!--

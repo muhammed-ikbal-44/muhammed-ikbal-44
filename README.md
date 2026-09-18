@@ -5,7 +5,7 @@ I am into robotics and embedded systems and I love C/+/# family.
 
 ---
 
-##My Project with METU Hezarfen Team
+## My Project with METU Hezarfen Team
 
 Currently I am doing such interesting things with Hezarfen Technology Team which is a team based on my university. 
 

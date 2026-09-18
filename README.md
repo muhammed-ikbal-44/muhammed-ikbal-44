@@ -7,8 +7,8 @@ Currently I am doing such interesting things with Hezarfen Technology Team which
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammed-ikbal-44/muhammed-ikbal-44/main/resim1.jpeg" height="38%" alt="Turret " title="The System" />
-  <img src="https://raw.githubusercontent.com/muhammed-ikbal-44/muhammed-ikbal-44/main/resim2.jpeg" height="38%" alt="The System" title="The System"/>
+  <img src="https://raw.githubusercontent.com/muhammed-ikbal-44/muhammed-ikbal-44/main/resim1.jpeg" width="40%" alt="Turret " title="The System" />
+  <img src="https://raw.githubusercontent.com/muhammed-ikbal-44/muhammed-ikbal-44/main/resim2.jpeg" width="20%" alt="The System" title="The System"/>
 </p>
 
 And I also love solving algorithm problems.
